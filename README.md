@@ -11,8 +11,6 @@ To run, execute the sh files:
 * 3-poke-battle-compare.sh
 * 4-zuul-api-gateway.sh
 
-This project was implemented with Spring Eureka, Ribbon Client, Feign Client, Zuul Api Gateway,Spring Sleuth and Hystrix. All of them are simple implementations.
-
 # Available endpoints:
 
 * http://localhost:{port}/battle/{typeOne}/versus/{typeTwo} (pokemon-type-battle-compare-service)
